@@ -7,6 +7,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/Markov-ctrl/Bundles/m
 
 # FIXED 
 FAKE ANIMATION FIXED✅
+
 REMOVED IDLE✅
 
 # SOURCE
